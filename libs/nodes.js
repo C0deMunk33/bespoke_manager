@@ -4,7 +4,7 @@
 /*****************************************************************************************/
 	
 	if(typeof module !== 'undefined') {
-		const Weaviate = require("./weaviate.js");
+		//const Weaviate = require("./weaviate.js");
 		LiteGraph = require("./litegraph.js");
 		// dummy window object
 		window = {};
